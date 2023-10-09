@@ -52,13 +52,17 @@ section.texto {
 section.imagem-texto1 {
     background: black url('imagens/background001.jpg') center center no-repeat fixed;
     background-size: cover;
-    padding: 30px;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 section.imagem-texto2 {
     background: black url('imagens/background002.jpg') center center no-repeat fixed;
     background-size: cover;
-    padding: 30px;
+    padding-left: 30px;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 p.poema-fundo {
